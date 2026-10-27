@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETFramework,Version=v4.7": {
+      "Revit.RevitApi.x64": {
+        "type": "Direct",
+        "requested": "[2019.0.0, 2019.0.0]",
+        "resolved": "2019.0.0",
+        "contentHash": "2CGmUk+F+j/HTg/xiuuIYZqfZcwAazLTWacJO+spswiwgHyWQiNwREDvGHfrwXld6nvZg9Pnqi+H+YGqUYnffg=="
+      },
+      "Revit.RevitApiUI.x64": {
+        "type": "Direct",
+        "requested": "[2019.0.0, 2019.0.0]",
+        "resolved": "2019.0.0",
+        "contentHash": "6S309o4rdnjf6aewRbp5YpRSTblEPF7i2fVP4L9pC+qVg2zLSP4rBQvoTTh6nDepASiGGQklcA2wz9jM3idF2A=="
+      }
+    }
+  }
+}
